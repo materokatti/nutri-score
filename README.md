@@ -2,6 +2,8 @@
 
 A clear and concise TypeScript implementation of the Nutri-Score calculation algorithm. Nutri-Score is a nutritional rating system used in Europe to grade foods from A (healthiest) to E (less healthy) based on their nutritional composition.
 
+<img src="https://github.com/user-attachments/assets/aa14d936-25ba-4d22-85c5-b35c530ddf38" width="50%" alt="Nutri-Score Diagram"/>
+
 ## 🌱 Features
 
 - Calculates Nutri-Score grades accurately.
