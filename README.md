@@ -52,8 +52,8 @@ Nutri-Score calculates a final score based on positive nutrients (fruits, fiber,
 
 ## 📚 Resources
 
-- [Official Nutri-Score Website](https://nutriscore.colruytgroup.com/)
 - [Nutri-Score Algorithm Documentation (PDF)](https://www.santepubliquefrance.fr/en/nutri-score)
+- [Colruytgroup Nutri-Score Website](https://nutriscore.colruytgroup.com/)
 
 ## 📝 License
 
